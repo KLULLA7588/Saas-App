@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/laptop", "destination": "/" },
+    { "source": "/mobile", "destination": "/" }
+  ]
+}
